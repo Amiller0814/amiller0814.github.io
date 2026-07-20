@@ -60,6 +60,20 @@ A fictional Azure-hosted healthcare platform built to demonstrate applied GRC an
 
 ---
 
+### 🏛️ Operation Iron Shield (OIS)
+**DoD RMF Authorization Package | AWS GovCloud | CUI System**
+
+A fictional DoD program supporting a web-based case management system processing Controlled Unclassified Information (CUI) on AWS GovCloud. This project demonstrates the full NIST RMF authorization lifecycle for a DoD information system — from initial FIPS 199 categorization through control implementation documentation and POA&M development.
+
+**Frameworks:** NIST SP 800-53 Rev 5 | NIST RMF | FISMA | FedRAMP | 32 CFR Part 2002 | DoDI 8510.01
+
+**Deliverables Completed:**
+- ✅ System Security Plan (SSP) — 8 sections, 5 control implementation statements
+- 🔄 Security Control Traceability Matrix (SCTM) — Coming Soon
+- 🔄 Plan of Action & Milestones (POA&M) — Coming Soon
+- 🔄 ATO Recommendation Memo — Coming Soon
+
+[View OIS Project →](./projects/OIS/)
 ## Education
 
 | Degree | Institution | Year |
