@@ -77,7 +77,7 @@ A fictional DoD program supporting a web-based case management system processing
 
 ---
 
-### ✈️ AeroPass (APS)
+### ✈️ AeroPass (APS) - Coming Soon
 **Commercial Aviation Compliance Assessment | PCI DSS | SOX | DFARS**
 
 A fictional commercial airline passenger services platform processing payment card data, SOX-scoped financial systems, and CUI under government charter contracts. This project will demonstrate multi-framework compliance assessment — where PCI DSS v4.0, SOX ITGC, and NIST SP 800-171 obligations overlap on shared enterprise infrastructure.
