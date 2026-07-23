@@ -88,12 +88,12 @@ Eight-section federal SSP documenting the complete security posture of OIS-CMS i
 
 **Controls Documented:** AC-2 \| IA-2 \| AU-2 \| SC-8 \| IR-4
 
-**File:** `OIS_CMS_SSP_v1.docx`
+**File:** [OIS_CMS_SSP_v1.docx](./OIS_CMS_SSP_v1.docx)
 
 ### 🔄 2. Security Control Traceability Matrix (SCTM)
 Spreadsheet mapping all applicable NIST SP 800-53 Rev 5 Moderate baseline controls to their implementation status, control type (inherited/hybrid/system-specific), responsible owner, and evidence artifacts.
 
-**File:** [OIS_CMS_SSP_v1.docx](./OIS_CMS_SSP_v1.docx)
+**File:** 'OIS_CMS_SCTM_v1.xlxs' - Coming Soon
 
 ### 🔄 3. Plan of Action and Milestones (POA&M)
 RMF Step 5 compliant POA&M tracking all identified control weaknesses with risk ratings, remediation owners, milestone steps, and projected completion dates.
