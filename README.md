@@ -74,6 +74,27 @@ A fictional DoD program supporting a web-based case management system processing
 - 🔄 ATO Recommendation Memo — Coming Soon
 
 [View OIS Project →](./projects/OIS/)
+
+---
+
+### ✈️ AeroPass (APS)
+**Commercial Aviation Compliance Assessment | PCI DSS | SOX | DFARS**
+
+A fictional commercial airline passenger services platform processing payment card data, SOX-scoped financial systems, and CUI under government charter contracts. This project will demonstrate multi-framework compliance assessment — where PCI DSS v4.0, SOX ITGC, and NIST SP 800-171 obligations overlap on shared enterprise infrastructure.
+
+**Frameworks:** PCI DSS v4.0 | SOX ITGC | NIST SP 800-171 | DFARS 252.204-7012
+
+**Planned Deliverables:**
+- 🔄 PCI DSS v4.0 Gap Assessment
+- 🔄 SOX ITGC Test Matrix
+- 🔄 DFARS / NIST SP 800-171 Readiness Assessment
+- 🔄 Cross-Framework Control Mapping
+- 🔄 Splunk Executive Compliance Dashboard
+
+[View AeroPass Project →](./projects/AeroPass/)
+
+---
+
 ## Education
 
 | Degree | Institution | Year |
