@@ -69,7 +69,7 @@ A fictional DoD program supporting a web-based case management system processing
 
 **Deliverables Completed:**
 - ✅ System Security Plan (SSP) — 8 sections, 5 control implementation statements
-- 🔄 Security Control Traceability Matrix (SCTM) — Coming Soon
+- 🔄 Security Control Traceability Matrix (SCTM) —  30 controls across 7 families | 19 POA&M entries identified
 - 🔄 Plan of Action & Milestones (POA&M) — Coming Soon
 - 🔄 ATO Recommendation Memo — Coming Soon
 
