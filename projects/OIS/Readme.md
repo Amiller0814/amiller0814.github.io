@@ -98,7 +98,7 @@ Spreadsheet mapping all applicable NIST SP 800-53 Rev 5 Moderate baseline contro
 ### 🔄 3. Plan of Action and Milestones (POA&M)
 RMF Step 5 compliant POA&M tracking all identified control weaknesses with risk ratings, remediation owners, milestone steps, and projected completion dates.
 
-**File:** `OIS_CMS_POAM_v1.xlsx` — Coming Soon
+**File:** [OIS_CMS_POAM_v1.xlsx](./OIS_CMS_POAM_v1.xlsx)
 
 ### 🔄 4. ATO Recommendation Memo
 Formal memorandum summarizing the security posture of OIS-CMS and providing an authorization recommendation to the Authorizing Official.
