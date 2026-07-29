@@ -11,7 +11,7 @@
 
 Cybersecurity and GRC professional with 13+ years of progressive experience executing Risk Management Framework (RMF) lifecycle operations, implementing NIST SP 800-53 security controls, and driving compliance across DoD and enterprise environments. Former U.S. Army Information Assurance Officer with a proven track record of authoring security documentation, managing vulnerability remediation programs, and serving as the bridge between compliance requirements and technical execution.
 
-Currently pursuing CISSP certification (target: August–September 2026) and completing a second M.S. in Cybersecurity at the University of Maryland Global Campus.
+Currently pursuing CISSP certification (target: September 2026) and completing a second M.S. in Cybersecurity at the University of Maryland Global Campus.
 
 ---
 
@@ -36,7 +36,7 @@ Currently pursuing CISSP certification (target: August–September 2026) and com
 | CompTIA CASP+ / SecurityX | ✅ Active |
 | CompTIA Security+ (DoD 8140) | ✅ Active |
 | CompTIA Network+ | ✅ Active |
-| CISSP — (ISC)² | 🔄 In Progress — Target Aug/Sep 2026 |
+| CISSP — (ISC)² | 🔄 In Progress — Target Sep 2026 |
 
 ---
 
@@ -92,6 +92,27 @@ A fictional commercial airline passenger services platform processing payment ca
 - 🔄 Splunk Executive Compliance Dashboard
 
 [View AeroPass Project →](./projects/AeroPass/)
+
+---
+
+### 🥃 Project SpiritGuard (SPG) - Coming Soon
+
+**Retail Compliance & Security Assessment | PCI DSS | Alcohol Beverage Control | NIST CSF**
+
+A retail compliance assessment grounded in real-world liquor retail operations — examining how payment card security, state alcohol licensing law, and internal operational controls intersect in a commercial retail environment. Unlike other portfolio projects built from hypothetical scenarios, this one draws on firsthand exposure to the environment being assessed.
+
+| **Frameworks:** PCI DSS v4.0 | State ABC Requirements | NIST CSF |
+| ----------------------------- | ----------------------- | -------- |
+
+**Planned Deliverables:**
+
+- 🔄 Risk Assessment Report — POS environment and physical store risk
+- 🔄 PCI DSS v4.0 Gap Assessment Matrix
+- 🔄 Age-Verification Policy & Procedure Document
+- 🔄 Control Traceability Matrix (ABC / PCI DSS / NIST CSF)
+- 🔄 Executive Summary Dashboard (Splunk-style POS anomaly monitoring)
+
+[View SpiritGuard Project →](https://amiller0814.github.io/projects/SpiritGuard/)
 
 ---
 
