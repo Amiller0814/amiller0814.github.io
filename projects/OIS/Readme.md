@@ -103,7 +103,7 @@ RMF Step 5 compliant POA&M tracking all identified control weaknesses with risk 
 ### 🔄 4. ATO Recommendation Memo
 Formal memorandum summarizing the security posture of OIS-CMS and providing an authorization recommendation to the Authorizing Official.
 
-**File:** `OIS_CMS_ATO_Memo_v1.docx` — Coming Soon
+**File:** [OIS_CMS_ATO_Memo_v1.docx](./OIS_CMS_ATO_Memo_v1.docx)
 
 ---
 
