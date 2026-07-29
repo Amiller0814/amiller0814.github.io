@@ -1,3 +1,8 @@
+---
+   layout: default
+   title: AeroPass
+   ---
+
 # AeroPass (APS)
 ### Commercial Aviation Compliance Assessment | GRC Portfolio Project
 
