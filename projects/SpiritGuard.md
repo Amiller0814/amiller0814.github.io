@@ -1,3 +1,8 @@
+---
+layout: default
+title: SpiritGuard
+---
+
 # Project SpiritGuard
 ### Retail Compliance & Security Assessment — Liquor Retail Environment
 
