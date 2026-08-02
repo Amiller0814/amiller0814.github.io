@@ -96,27 +96,6 @@ A fictional commercial airline passenger services platform processing payment ca
 
 ---
 
-### 🥃 Project SpiritGuard (SPG) - Coming Soon
-
-**Retail Compliance & Security Assessment | PCI DSS | Alcohol Beverage Control | NIST CSF**
-
-A retail compliance assessment grounded in real-world liquor retail operations — examining how payment card security, state alcohol licensing law, and internal operational controls intersect in a commercial retail environment. Unlike other portfolio projects built from hypothetical scenarios, this one draws on firsthand exposure to the environment being assessed.
-
-| **Frameworks:** PCI DSS v4.0 | State ABC Requirements | NIST CSF |
-| ----------------------------- | ----------------------- | -------- |
-
-**Planned Deliverables:**
-
-- 🔄 Risk Assessment Report — POS environment and physical store risk
-- 🔄 PCI DSS v4.0 Gap Assessment Matrix
-- 🔄 Age-Verification Policy & Procedure Document
-- 🔄 Control Traceability Matrix (ABC / PCI DSS / NIST CSF)
-- 🔄 Executive Summary Dashboard (Splunk-style POS anomaly monitoring)
-
-[View SpiritGuard Project →](https://amiller0814.github.io/projects/SpiritGuard/)
-
----
-
 ## Education
 
 | Degree | Institution | Year |
