@@ -5,7 +5,7 @@
 **Frameworks:** PCI DSS v4.0 | SOX ITGC | NIST SP 800-171 | DFARS 252.204-7012 | NIST SP 800-53 Rev 5  
 **Platform:** Hybrid Enterprise Environment  
 **Classification:** Unclassified — Portfolio Demonstration Project  
-**Status:** 🔄 Coming Soon — Build Begins After OIS ATO Package Completion  
+**Status:** Active — Artifacts In Development  
 
 ---
 
@@ -19,10 +19,10 @@ This project demonstrates cross-framework compliance assessment skills: scoping,
 
 ## Planned Deliverables
 
-### 🔄 1. PCI DSS v4.0 Gap Assessment
+### ✅ 1. PCI DSS v4.0 Gap Assessment
 Scoping analysis and gap assessment of the cardholder data environment (CDE) against the PCI DSS v4.0 requirements, with prioritized remediation roadmap.
 
-**File:** `APS_PCI_Gap_Assessment_v1.xlsx` — Coming Soon
+**File:** [APS_PCI_DSS_Gap_Assessment_v1.xlsx](./APS_PCI_DSS_Gap_Assessment_v1.xlsx)
 
 ### 🔄 2. SOX ITGC Test Matrix
 IT General Controls test matrix covering access management, change management, and IT operations for SOX-scoped financial systems — test procedures, sample sizes, and results documentation.
