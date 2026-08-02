@@ -24,10 +24,15 @@ Scoping analysis and gap assessment of the cardholder data environment (CDE) aga
 
 **File:** [APS_PCI_DSS_Gap_Assessment_v1.xlsx](./APS_PCI_DSS_Gap_Assessment_v1.xlsx)
 
-### 🔄 2. SOX ITGC Test Matrix
-IT General Controls test matrix covering access management, change management, and IT operations for SOX-scoped financial systems — test procedures, sample sizes, and results documentation.
+### ✅ 2. SOX ITGC Test Matrix
+Documents IT General Controls supporting financial reporting 
+integrity for Regional Air Holdings.
 
-**File:** `APS_SOX_ITGC_Test_Matrix_v1.xlsx` — Coming Soon
+**File:** [APS_SOX_ITGC_Test_Matrix_v1.xlsx](./APS_SOX_ITGC_Test_Matrix_v1.xlsx)
+
+**Framework Sources:** PCAOB AS 2201 | COSO Internal Control 
+Framework | NIST SP 800-53 Rev 5 Control Mapping | 
+Standard ITGC Audit Practice
 
 ### 🔄 3. DFARS / NIST SP 800-171 Readiness Assessment
 CUI readiness assessment against the NIST SP 800-171 security requirement families supporting DFARS 252.204-7012 compliance for government charter contract data.
