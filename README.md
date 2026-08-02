@@ -85,7 +85,7 @@ A fictional commercial airline passenger services platform processing payment ca
 **Frameworks:** PCI DSS v4.0 | SOX ITGC | NIST SP 800-171 | DFARS 252.204-7012
 
 **Planned Deliverables:**
-- 🔄 PCI DSS v4.0 Gap Assessment
+✅ 1. PCI DSS v4.0 Gap Assessment
 - 🔄 SOX ITGC Test Matrix
 - 🔄 DFARS / NIST SP 800-171 Readiness Assessment
 - 🔄 Cross-Framework Control Mapping
