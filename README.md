@@ -88,7 +88,7 @@ A fictional commercial airline passenger services platform processing payment ca
 
 - ✅ 1. PCI DSS v4.0 Gap Assessment
 - ✅ SOX ITGC Test Matrix
-- 🔄 DFARS / NIST SP 800-171 Readiness Assessment
+- ✅ DFARS / NIST SP 800-171 Readiness Assessment
 - 🔄 Cross-Framework Control Mapping
 - 🔄 Splunk Executive Compliance Dashboard
 
