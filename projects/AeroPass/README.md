@@ -34,10 +34,10 @@ integrity for Regional Air Holdings.
 Framework | NIST SP 800-53 Rev 5 Control Mapping | 
 Standard ITGC Audit Practice
 
-### 🔄 3. DFARS / NIST SP 800-171 Readiness Assessment
+### ✅ 3. DFARS / NIST SP 800-171 Readiness Assessment
 CUI readiness assessment against the NIST SP 800-171 security requirement families supporting DFARS 252.204-7012 compliance for government charter contract data.
 
-**File:** `APS_800-171_Readiness_v1.xlsx` — Coming Soon
+**File:** [APS_NIST_800171_Readiness_Assessment_v1.xlsx](./APS_NIST_800171_Readiness_Assessment_v1.xlsx)
 
 ### 🔄 4. Cross-Framework Control Mapping
 Unified mapping of overlapping requirements across PCI DSS v4.0, SOX ITGC, and NIST SP 800-171 — demonstrating test-once, comply-many efficiency.
