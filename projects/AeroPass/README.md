@@ -39,10 +39,10 @@ CUI readiness assessment against the NIST SP 800-171 security requirement famili
 
 **File:** [APS_NIST_800171_Readiness_Assessment_v1.xlsx](./APS_NIST_800171_Readiness_Assessment_v1.xlsx)
 
-### 🔄 4. Cross-Framework Control Mapping
+### ✅ 4. Cross-Framework Control Mapping
 Unified mapping of overlapping requirements across PCI DSS v4.0, SOX ITGC, and NIST SP 800-171 — demonstrating test-once, comply-many efficiency.
 
-**File:** `APS_Crosswalk_v1.xlsx` — Coming Soon
+**File:** [APS_Cross_Framework_Control_Mapping_v1.xlsx](./APS_Cross_Framework_Control_Mapping_v1.xlsx)
 
 ### 🔄 5. Splunk Executive Compliance Dashboard
 Executive-level Splunk dashboard concept visualizing compliance posture, open findings by framework, and remediation velocity.
