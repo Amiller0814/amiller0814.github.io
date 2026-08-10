@@ -44,10 +44,10 @@ Unified mapping of overlapping requirements across PCI DSS v4.0, SOX ITGC, and N
 
 **File:** [APS_Cross_Framework_Control_Mapping_v1.xlsx](./APS_Cross_Framework_Control_Mapping_v1.xlsx)
 
-### 🔄 5. Splunk Executive Compliance Dashboard
+### ✅ 5. Splunk Executive Compliance Dashboard
 Executive-level Splunk dashboard concept visualizing compliance posture, open findings by framework, and remediation velocity.
 
-**File:** `APS_Splunk_Dashboard_v1` — Coming Soon
+**File:** [APS_Executive_Compliance_Dashboard_v1.xlsx](./APS_Executive_Compliance_Dashboard_v1.xlsx)
 
 ---
 
