@@ -11,7 +11,7 @@
 
 Cybersecurity and GRC professional with 13+ years of progressive experience executing Risk Management Framework (RMF) lifecycle operations, implementing NIST SP 800-53 security controls, and driving compliance across DoD and enterprise environments. Former U.S. Army Information Assurance Officer with a proven track record of authoring security documentation, managing vulnerability remediation programs, and serving as the bridge between compliance requirements and technical execution.
 
-Currently pursuing CISSP certification (target: September 2026) and completing a second M.S. in Cybersecurity at the University of Maryland Global Campus.
+Currently pursuing a second M.S. in Cybersecurity at the University of Maryland Global Campus.
 
 ---
 
@@ -36,7 +36,6 @@ Currently pursuing CISSP certification (target: September 2026) and completing a
 | CompTIA CASP+ / SecurityX | ✅ Active |
 | CompTIA Security+ (DoD 8140) | ✅ Active |
 | CompTIA Network+ | ✅ Active |
-| CISSP — (ISC)² | 🔄 In Progress — Target Sep 2026 |
 
 ---
 
