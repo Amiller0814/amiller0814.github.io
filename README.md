@@ -1,115 +1,77 @@
-# Ashley Miller
-### GRC Analyst | ISSO | Cybersecurity Compliance Professional
+<h1 align="center">Hi, I'm Ashley Miller 👋</h1>
+<h3 align="center">GRC Analyst | ISSO | Cybersecurity Compliance Professional</h3>
 
-📍 Grovetown, GA &nbsp;|&nbsp; 🔐 Active DoD Secret Clearance &nbsp;|&nbsp; 📧 a_miller101@yahoo.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ashleyelainemiller1)
-
----
-
-## About Me
-
-Cybersecurity and GRC professional with 13+ years of progressive experience executing Risk Management Framework (RMF) lifecycle operations, implementing NIST SP 800-53 security controls, and driving compliance across DoD and enterprise environments. Former U.S. Army Information Assurance Officer with a proven track record of authoring security documentation, managing vulnerability remediation programs, and serving as the bridge between compliance requirements and technical execution.
-
-Currently pursuing a second M.S. in Cybersecurity at the University of Maryland Global Campus.
+<p align="center">
+  <a href="https://linkedin.com/in/ashleyelainemiller1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:a_miller101@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6001D2?style=for-the-badge&logo=yahoo" />
+  </a>
+</p>
 
 ---
 
-## Core Competencies
+### 🔐 About Me
 
-- Risk Management Framework (RMF) Lifecycle
-- NIST SP 800-53 Control Implementation & Validation
-- Continuous Monitoring (ConMon) Operations
-- POA&M Development & Closure Tracking
-- System Security Plans (SSPs) & ATO Support
-- Vulnerability Assessment & Remediation Management
-- Security Policy & SOP Authorship
-- Microsoft Sentinel | Splunk | Defender for Cloud
-- Azure Cloud Security Architecture
+I'm a cybersecurity and GRC professional with **13+ years of DoD and federal information assurance experience**. My work covers the full Risk Management Framework (RMF) lifecycle, implementing NIST SP 800-53 security controls, managing vulnerabilities, and keeping compliance on track in regulated environments.
 
----
-
-## Certifications
-
-| Certification | Status |
-|---|---|
-| CompTIA CASP+ / SecurityX | ✅ Active |
-| CompTIA Security+ (DoD 8140) | ✅ Active |
-| CompTIA Network+ | ✅ Active |
+- 🎖️ U.S. Army Veteran: Information Assurance Officer, deployed to Afghanistan (OEF)
+- 🛡️ Army roles: IT Compliance & Security Manager, Risk & Compliance Manager / COMSEC Custodian, Cybersecurity Governance Instructor
+- 🏢 Former ATOM Instructor at **Leidos Defense Group** (Fort Gordon)
+- 🎓 M.S. Cybersecurity Management & Policy, **University of Maryland Global Campus**
+- 📖 Weekly **ISSO Development & RMF** practitioner training through KyoraIQ
+- 🔑 Active **TS/SCI Clearance**
 
 ---
 
-## Portfolio Projects
+### 🛠️ Core Skills
 
-### 🏥 MedSecure Cloud Platform (MSCP)
-**Azure-Hosted Healthcare GRC Portfolio Project**
-
-A fictional Azure-hosted healthcare platform built to demonstrate applied GRC and security architecture skills. Artifacts developed follow real-world ISSO and compliance standards.
-
-**Frameworks:** NIST SP 800-53 Rev 5 | HIPAA / HITECH | NIST RMF
-
-**Deliverables Completed:**
-- ✅ Azure Architecture Diagram
-- ✅ Security Control Matrix (16 controls across 6 domains)
-- ✅ Gap Analysis Summary
-- ✅ Risk Register
-- ✅ Plan of Action & Milestones (POA&M) — 10 findings
-
-[View MSCP Project →](./projects/MSCP/)
+```text
+Frameworks      NIST SP 800-53 Rev 5 | NIST RMF | NIST CSF | NIST SP 800-171 | FISMA | DoDI 8510.01
+                HIPAA/HITECH | PCI DSS v4.0 | SOX ITGC | CIS Controls v8
+GRC             SSP Authorship | SCTM | POA&M Lifecycle Management | eMASS BoE Artifacts | ATO Support
+                Gap Analysis | Risk Register | Continuous Monitoring (ConMon)
+Hardening       DISA STIGs | SCAP Compliance Checker (SCC) | STIG Viewer | ACAS / Tenable Nessus
+SIEM & Tools    Splunk | IBM QRadar | Microsoft Sentinel | Defender for Cloud | Azure Policy | ServiceNow
+Cloud           Microsoft Azure | AWS GovCloud (exposure) | Azure Key Vault | Microsoft Entra ID
+COMSEC          Type 1 Cryptographic Devices | KMI | Key Loaders (SKL)
+```
 
 ---
 
-### 🏛️ Operation Iron Shield (OIS)
-**DoD RMF Authorization Package | AWS GovCloud | CUI System**
+### 📁 Portfolio Projects
 
-A fictional DoD program supporting a web-based case management system processing Controlled Unclassified Information (CUI) on AWS GovCloud. This project demonstrates the full NIST RMF authorization lifecycle for a DoD information system — from initial FIPS 199 categorization through control implementation documentation and POA&M development.
-
-**Frameworks:** NIST SP 800-53 Rev 5 | NIST RMF | FISMA | FedRAMP | 32 CFR Part 2002 | DoDI 8510.01
-
-**Deliverables Completed:**
-- ✅ System Security Plan (SSP) — 8 sections, 5 control implementation statements
-- ✅ Security Control Traceability Matrix (SCTM) —  30 controls across 7 families | 19 POA&M entries identified
-- ✅ Plan of Action & Milestones (POA&M) — 19 findings | 3 remediation phases | 90-day ATO target
-- ✅ ATO Recommendation Memo — IATO recommended | 90-day remediation plan | 7 conditions
-
-[View OIS Project →](./projects/OIS/)
+| Project | Frameworks | Artifacts | Status |
+|---|---|---|---|
+| [🏥 MedSecure Cloud Platform (MSCP)](./projects/MSCP) | NIST SP 800-53 · HIPAA · RMF | Architecture Diagram · Control Matrix · Gap Analysis · Risk Register · POA&M | ✅ Complete |
+| [🏛️ Operation Iron Shield (OIS)](./projects/OIS) | NIST SP 800-53 · RMF · FISMA · DoDI 8510.01 | SSP · SCTM · POA&M · ATO Recommendation Memo | ✅ Complete |
+| [✈️ AeroPass (APS)](./projects/AeroPass) | PCI DSS v4.0 · SOX ITGC · NIST SP 800-171 · DFARS | PCI Gap Assessment · SOX ITGC Test Matrix · 800-171 Readiness · Cross-Framework Mapping · Splunk Executive Dashboard | ✅ Complete |
+| [🛡️ STIG Hardening Home Lab](https://github.com/amiller0814/STIG-Hardening-Lab) | DISA STIGs · NIST SP 800-53 CM-6 | Baseline & Rescan Results · STIG Viewer Checklists · POA&M · Risk Acceptance Memo | 🔄 In Progress |
+| 🤖 GovAI Sentinel | NIST AI RMF · NIST RMF | Federal AI Governance & ATO Platform (Next.js · Supabase · LLM) | 🔄 In Development |
 
 ---
 
-### ✈️ AeroPass (APS)
-**Commercial Aviation Compliance Assessment | PCI DSS | SOX | DFARS**
+### 📊 Current Focus
 
-A fictional commercial airline passenger services platform processing payment card data, SOX-scoped financial systems, and CUI under government charter contracts. This project will demonstrate multi-framework compliance assessment — where PCI DSS v4.0, SOX ITGC, and NIST SP 800-171 obligations overlap on shared enterprise infrastructure.
-
-**Frameworks:** PCI DSS v4.0 | SOX ITGC | NIST SP 800-171 | DFARS 252.204-7012
-
-**Planned Deliverables:**
-
-- ✅ 1. PCI DSS v4.0 Gap Assessment
-- ✅ SOX ITGC Test Matrix
-- ✅ DFARS / NIST SP 800-171 Readiness Assessment
-- ✅ Cross-Framework Control Mapping
-- ✅ Splunk Executive Compliance Dashboard
-
-[View AeroPass Project →](./projects/AeroPass/)
+- 🛡️ **STIG Hardening Lab:** Building Windows Server 2022 and RHEL 9 targets, then baselining, remediating, and rescanning them against DISA STIGs
+- 🤖 **GovAI Sentinel:** Building a working federal AI governance and authorization platform
+- 📖 **Weekly ISSO Development:** RMF lifecycle, ConMon operations, ATO package management
+- 🎓 **M.S. Cybersecurity:** University of Maryland Global Campus (Expected 2027)
 
 ---
 
-## Education
+### 📜 Certifications
 
-| Degree | Institution | Year |
-|---|---|---|
-| M.S., Cybersecurity Management and Policy | University of Maryland Global Campus | 2025 |
-| M.S., Cybersecurity *(In Progress)* | University of Maryland Global Campus | Expected 2027 |
-| B.S., Information Technology | University of Arizona Global Campus | 2023 |
-
----
-
-## Professional Development
-
-- **CISSP Prep Course** — Tromenz | 6-Week Intensive | June–July 2026
-- **ISSO Development & RMF Practitioner Series** — KyoraIQ | Weekly | Ongoing
+<p>
+  <img src="https://img.shields.io/badge/CISM-Exam%20Passed%20%7C%20Verification%20Pending-B8860B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CASP%2B%20%2F%20SecurityX%20(IAT%20III)-Active-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security%2B%20(DoD%208140)-Active-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/Network%2B-Active-1F3864?style=flat-square" />
+</p>
 
 ---
 
-*This portfolio is actively updated as new projects and certifications are completed.*
+### 🤝 Let's Connect
+
+I'm always building my GRC and ISSO skills, and I'm open to connecting with others in cybersecurity, federal contracting, and the veteran tech community. Reach out on [LinkedIn](https://linkedin.com/in/ashleyelainemiller1).
