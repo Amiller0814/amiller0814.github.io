@@ -47,7 +47,7 @@ COMSEC          Type 1 Cryptographic Devices | KMI | Key Loaders (SKL)
 | [🏥 MedSecure Cloud Platform (MSCP)](./projects/MSCP) | NIST SP 800-53 · HIPAA · RMF | Architecture Diagram · Control Matrix · Gap Analysis · Risk Register · POA&M | ✅ Complete |
 | [🏛️ Operation Iron Shield (OIS)](./projects/OIS) | NIST SP 800-53 · RMF · FISMA · DoDI 8510.01 | SSP · SCTM · POA&M · ATO Recommendation Memo | ✅ Complete |
 | [✈️ AeroPass (APS)](./projects/AeroPass) | PCI DSS v4.0 · SOX ITGC · NIST SP 800-171 · DFARS | PCI Gap Assessment · SOX ITGC Test Matrix · 800-171 Readiness · Cross-Framework Mapping · Splunk Executive Dashboard | ✅ Complete |
-| [🛡️ STIG Hardening Home Lab](https://github.com/amiller0814/STIG-Hardening-Lab) | DISA STIGs · NIST SP 800-53 CM-6 | Baseline & Rescan Results · STIG Viewer Checklists · POA&M · Risk Acceptance Memo | 🔄 In Progress |
+| [🛡️ STIG Hardening Home Lab](./projects/STIG-Lab) | DISA STIGs · NIST SP 800-53 CM-6 | Baseline & Rescan Results · STIG Viewer Checklists · POA&M · Risk Acceptance Memo | 🔄 In Progress |
 | 🤖 GovAI Sentinel | NIST AI RMF · NIST RMF | Federal AI Governance & ATO Platform (Next.js · Supabase · LLM) | 🔄 In Development |
 
 ---
